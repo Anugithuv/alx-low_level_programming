@@ -2,3 +2,6 @@ Complete the source code in order to print whether the number stored in the vari
 Complete the source code in order to print the last digit of the number stored in the variable n.
 prints the alphabet in lowercase, followed by a new line.
 prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+prints the alphabet in lowercase, followed by a new line.
+
+Print all the letters except q and e
