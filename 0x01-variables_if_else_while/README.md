@@ -11,3 +11,4 @@ prints the lowercase alphabet in reverse, followed by a new line.
 prints all the numbers of base 16 in lowercase, followed by a new line.
 prints all possible combinations of single-digit numbers.
 prints all possible different combinations of two digits.
+prints all possible different combinations of three digits.
