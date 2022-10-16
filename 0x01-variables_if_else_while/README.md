@@ -10,3 +10,4 @@ prints all single digit numbers of base 10 starting from 0, followed by a new li
 prints the lowercase alphabet in reverse, followed by a new line.
 prints all the numbers of base 16 in lowercase, followed by a new line.
 prints all possible combinations of single-digit numbers.
+prints all possible different combinations of two digits.
