@@ -2,7 +2,7 @@
 
 /**
  * main - print _putchar
- * Description: prints _putchar followed by a new line
+ * is written by Anugithuv
  * Return: 0
  */
 
